@@ -30,3 +30,5 @@
   * Blender can calculate surface area of you don't have it from your ME CAD software.  
   * Would be good to find calculations on surface areas, current, time.
 * Run at currents just below bubbling point.   
+* Rotation should be very slow.
+* If you use a wire wrap, print must be moved often to avoid welding the wire to the print.  If the part can have a hidden tab, that can be cut off, this issue can be avoided. 
