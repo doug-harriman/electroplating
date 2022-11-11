@@ -3,17 +3,30 @@
 # Learning Resources
 
 * [Hen3dnrik](https://www.youtube.com/c/v0g3l)
-* 
+  * [Most detailed video](https://www.youtube.com/watch?v=MuhlMYTcByw) 
 
 # Materials
 
 * Acetone thinned copper laquer spray.
-* Bare copper wire
+* Conductive wire for holding print
+  * Copper - Cheaper
+  * Silver - Won't oxidize as quickly  
 * Nickel electrode
 * Power supply
 * Distilled Vinegar
 * Pickling Salt - No additives
-* Filter paper for electrodes
+* Filter covering for anodes - Plates will disolve, fouling bath with contaminents from metal impurities over time.
+  * Non-woven polypropylene   
+  * [Pond filter pad](https://www.amazon.com/Polishing-Filter-Pad-100-Micron/dp/B014G7WTRY/) and hot glue to make pocket.  
 * Rotation Mechanism
+  * Just let wire slip in wire clamp jaws. 
 * Container for bath
+* Sandpaper
+* Fine steel wool
 
+# Notes
+
+* Per Hen3drik: Surface area of electrodes should be slightly greater than surface area of item to be plated. 
+  * Blender can calculate surface area of you don't have it from your ME CAD software.  
+  * Would be good to find calculations on surface areas, current, time.
+* Run at currents just below bubbling point.   
