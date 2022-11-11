@@ -4,6 +4,8 @@
 
 * [Hen3dnrik](https://www.youtube.com/c/v0g3l)
   * [Most detailed video](https://www.youtube.com/watch?v=MuhlMYTcByw) 
+* [Clough42](https://www.youtube.com/watch?v=JSlnvkI04TU) - Nickel electroplating & creating your own bath with vinegar & salt.
+
 
 # Materials
 
